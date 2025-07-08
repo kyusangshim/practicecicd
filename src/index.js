@@ -1,22 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import Nav from './Nav';
-import InputCom from './component/InputCom';
-import Product from './component/Product';
-import App from './App';
-import FontColor from './component/FontColor';
-import InputList from './page/InputList';
-import Reacthook from './page/Reacthook';
-// import InputType from './component/InputType';
-import CommentList from './page/CommentList';
-import ReactArray from './page/ReactArray';
-import BingoGame from './page/BingoGame';
-import LoginToolbarApp from './component/LoginToolbarApp';
-import Loginmode from './page/Loginmode'
-import TimeTrans from './page/TimeTrans'
 import Dday from './page/Dday'
-import AppPag from './page/AppPag'
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

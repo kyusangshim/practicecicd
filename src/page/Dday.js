@@ -1,10 +1,8 @@
 import React, { useState } from 'react';
-import axios from "axios";
 
 function Dday() {
     const [value, setValue] = useState('');
     const [result, setResult] = useState('');
-    const [company, setCompany] = useState('');
 
     const trans = () => {
         const today = new Date();
